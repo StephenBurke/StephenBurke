@@ -10,8 +10,8 @@
 ### Bio
 - 📜 B.S. Data Science from Northwest Missouri State University
 - 📜 B.S. Mathematics from Northwest Missouri State University
-- 😄 Pronouns: he/him
 - :octocat: [Github](https://github.com/StephenBurke)
+
 ___
 
 [![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephenBurke&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
