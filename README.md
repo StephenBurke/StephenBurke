@@ -15,6 +15,8 @@
 ___
 
 [![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephenBurke&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Stephen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StephenBurke&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenBurke&show_icons=true&theme=panda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
