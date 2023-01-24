@@ -12,7 +12,6 @@
 - 📜 B.S. Mathematics from Northwest Missouri State University
 - 😄 Pronouns: he/him
 - :octocat: [Github](https://github.com/StephenBurke)
-- :email: [Gmail](burke.stephenpaul@gmail.com)
 ___
 
 [![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephenBurke&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
