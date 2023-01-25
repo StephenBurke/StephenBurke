@@ -17,10 +17,10 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StephenBurke&show_icons=true&theme=panda" />
+  <img align="center" src="https://github-readme-stats-rust-nu.vercel.app/api?username=StephenBurke&show_icons=true&theme=panda" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=StephenBurke&show_icons=true&theme=panda" />
+  <img align="center" src="https://github-readme-stats-rust-nu.vercel.app/api/wakatime?username=StephenBurke&show_icons=true&theme=panda" />
 </a>
 
 ---
