@@ -1,27 +1,28 @@
-<h2 style="text-align: center;">Hi there! How are ya?!👋</h2>
-<h2 style="text-align: center;">Stephen Burke - Data analyst</h2>
+<h2 align="center" >Hi there! How are ya?!👋</h2>
+<h2 align="center" >Stephen Burke - Data analyst</h2>
+<br/>
 
-### Languages and Tools:
-
-<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/r" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/markdown" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/windows11" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/powershell" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/jupyter" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/git" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/github" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/numpy" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/pandas" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/plotly" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/kaggle" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/microsoftexcel" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/tableau" />
+<div align="center">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/python" /> 
+  <img height="32" width="32" src="https://cdn.simpleicons.org/r" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/markdown" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/windows11" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/powershell" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/jupyter" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/github" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/numpy" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/pandas" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/plotly" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/kaggle" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftexcel" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/tableau" />
+</div/>
 
 ### Now
 
@@ -29,7 +30,7 @@
 - 🌱 Learning more about github
 - 👯 Looking to collaborate on python projects
 
-### Bio
+### Biography
 
 - 📜 B.S. Data Science from Northwest Missouri State University
 - 📜 B.S. Mathematics from Northwest Missouri State University
