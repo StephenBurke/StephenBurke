@@ -22,7 +22,17 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/kaggle" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftexcel" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/tableau" />
-</div/>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-rust-nu.vercel.app/api?username=StephenBurke&show_icons=true&theme=panda" />
+</a>
+</div>
+
+<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-rust-nu.vercel.app/api?username=StephenBurke&show_icons=true&theme=panda" />
