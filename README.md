@@ -24,6 +24,12 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/tableau" />
 </div/>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-rust-nu.vercel.app/api?username=StephenBurke&show_icons=true&theme=panda" />
+</a>
+
+<br/>
+
 ### Now
 
 - 🔭 Working on building recommendation systems
@@ -42,17 +48,11 @@
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-rust-nu.vercel.app/api?username=StephenBurke&show_icons=true&theme=panda" />
-</a>
-    
 <!--START_SECTION:waka-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-rust-nu.vercel.app/api/wakatime?username=StephenBurke&show_icons=true&theme=panda" />
 </a>
 <!--END_SECTION:waka-->
-
----
 
 [![Top Langs](https://github-readme-stats-rust-nu.vercel.app/api/top-langs/?username=StephenBurke&show_icons=true&theme=panda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
