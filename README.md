@@ -23,6 +23,13 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftexcel" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/tableau" />
 </div>
+<<<<<<< format
+=======
+
+<br/>
+
+
+>>>>>>> main
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
