@@ -4,12 +4,12 @@
 
 <div align="center">
   <img height="32" width="32" src="https://cdn.simpleicons.org/python" /> 
-  <img height="32" width="32" src="https://cdn.simpleicons.org/r" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/markdown" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/windows11" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/powershell" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/jupyter" />
@@ -17,11 +17,11 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/github" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/numpy" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/pandas" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/plotly" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/plotly" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/tableau" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/kaggle" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftexcel" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/tableau" />
 </div>
 
 <br/>
