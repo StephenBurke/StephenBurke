@@ -59,4 +59,8 @@
 </a>
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats-rust-nu.vercel.app/api/top-langs/?username=StephenBurke&show_icons=true&theme=panda&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  
+  [![Top Langs](https://github-readme-stats-rust-nu.vercel.app/api/top-langs/?username=StephenBurke&show_icons=true&theme=panda&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
