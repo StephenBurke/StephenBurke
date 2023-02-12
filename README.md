@@ -48,7 +48,7 @@
 ### Me
 
 - :page_facing_up: [Résumé](https://docs.google.com/document/d/1uTOLB5-VQc5dWF9zdT6-eVQBLgSp7YYdaMguzKql6IA/edit?usp=sharing)
-- :mailbox: [Email](burke.42analytics@gmail.com)
+- :mailbox: [Email](mailto:burke.42analytics@gmail.com)
 
 <br/>
 
