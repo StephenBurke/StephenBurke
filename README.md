@@ -45,10 +45,9 @@
 - 📜 B.S. Data Science from Northwest Missouri State University
 - 📜 B.S. Mathematics from Northwest Missouri State University
 
-### Contact me
+### Me
 
 - :page_facing_up: [Résumé](https://docs.google.com/document/d/1uTOLB5-VQc5dWF9zdT6-eVQBLgSp7YYdaMguzKql6IA/edit?usp=sharing)
-- :octocat: [Github](https://github.com/StephenBurke)
 - :mailbox: [Email](burke.42analytics@gmail.com)
 
 <br/>
