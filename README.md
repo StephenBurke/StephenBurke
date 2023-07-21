@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-rust-nu.vercel.app/api?username=StephenBurke&show_icons=true&theme=panda&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=StephenBurke&show_icons=true&theme=panda&hide_border=true" />
   </a>
 </div>
 
@@ -55,12 +55,12 @@
 <!--START_SECTION:waka-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-rust-nu.vercel.app/api/wakatime?username=StephenBurke&show_icons=true&theme=panda&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=StephenBurke&show_icons=true&theme=panda&hide_border=true" />
 </a>
 <!--END_SECTION:waka-->
 
 <div>
   
-  [![Top Langs](https://github-readme-stats-rust-nu.vercel.app/api/top-langs/?username=StephenBurke&show_icons=true&theme=panda&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenBurke&show_icons=true&theme=panda&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
